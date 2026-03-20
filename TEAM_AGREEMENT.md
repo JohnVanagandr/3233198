@@ -6,7 +6,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
 | [John Becerra] | Líder (Arquitecto) | `@JohnVanagandr` |
-| [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
+| [Manuel Serrano] | Desarrollador | `@Serranomanuel` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 
 ## 2. Canales de Comunicación
